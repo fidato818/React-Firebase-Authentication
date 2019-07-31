@@ -4,7 +4,7 @@ In this project
 
 > React JS
 
-> Firebase
+> Firebase FireStore
 
 > React Router
 
