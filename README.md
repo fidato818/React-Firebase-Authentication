@@ -1,3 +1,7 @@
 # React-Firebase-Authentication
 
-[![alt text][1.1]][1]
+In this project 
+
+React JS
+Firebase
+React Router
