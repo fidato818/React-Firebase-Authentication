@@ -2,6 +2,6 @@
 
 In this project 
 
-React JS
-Firebase
-React Router
+> React JS
+> Firebase
+> React Router
