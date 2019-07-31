@@ -1,4 +1,4 @@
-# React-Firebase-Authentication
+# React Firebase Authentication
 
 In this project 
 
@@ -7,3 +7,5 @@ In this project
 > Firebase
 
 > React Router
+
+#
